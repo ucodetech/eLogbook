@@ -1,0 +1,27 @@
+*{
+  font-family: 'Fredoka One', cursive;
+}
+#showAdmin_info,#showAdmin_previous,#showAdmin_next {
+    color: #fff;
+}
+
+div#showAdmin_paginate {
+    color: #fff;
+}
+.even, .odd{
+  background: none;
+}
+.dark-edition .table>thead>tr>th, .dark-edition .table>tbody>tr>th, .dark-edition .table>tfoot>tr>th, .dark-edition .table>thead>tr>td, .dark-edition .table>tbody>tr>td, .dark-edition .table>tfoot>tr>td {
+    color: magenta;
+    border-color: rgba(180, 180, 180, 0.1);
+}
+
+.activeImg{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.signature{
+  width: 250px;
+  height:250px;
+}

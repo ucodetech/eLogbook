@@ -1,0 +1,5 @@
+RewriteEngine On
+
+
+
+RewriteRule ^student-logbook/([0-9a-zA-Z_-]+)$ student-logbook.php?log=$1 [NC,L]
